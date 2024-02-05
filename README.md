@@ -15,7 +15,7 @@
 * Test the PyChain Ledger: Involves storing records and verifying the blockchain's functionality.
 ---
 
-
+[add=""](validating.png)
 
 
 ## Instructions
