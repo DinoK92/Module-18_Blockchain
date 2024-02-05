@@ -1,5 +1,5 @@
 # PyChain Ledger
-
+[Screenshot](validating.png)
 ## Features
 
 * Record Data Class: Defines the structure for transaction records, including sender, receiver, and transaction amount.
